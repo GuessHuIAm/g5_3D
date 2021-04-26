@@ -1,11 +1,11 @@
 from display import *
 from draw import *
-from parser import *
+from parser1 import *
 from matrix import *
 import math
 
 screen = new_screen()
-color = [ 0, 0, 0 ]
+color = [ 255, 255, 255 ]
 edges = []
 transform = new_matrix()
 
